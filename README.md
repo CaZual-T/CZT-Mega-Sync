@@ -44,14 +44,19 @@
 - Download & Install MegaCZT.
 - Run MegaCZT. *(As Administrator)*
 - Paste the shared folder link into the 'MEGA Folder URL' entry.
-- Click auto path (for RoN) or Manual Path.
-- Click 'Install MEGA'
+- Click "Auto Path" (currently only works for RoN) or Manual Path for other games/locations.
+  - It should automatically detect something similar to:<br>
+    `D:\Program Files (x86)\Steam\steamapps\common\Ready Or Not\ReadyOrNot\Content\Paks`
+- Click 'Install MEGA' (wait for it to complete)
 - Click 'Detect MEGA'
-- Delete existing mod folder within destination path if it exists.
-- Download.
+- Before continuing, delete the folder currently holding all of your mods:
+  - Exception: If it’s already named *mod.czt*, or you just dont have a mods folder to begin with, skip this step.
+  - For example, mod.io has its own folder ~ delete the one holding the mods from other sites (the tool creates a new folder)<br>
+     *- DO NOT DELETE mod.io if you see it. I was just using it as an example.* 
+- Click Download.
 
 
-## How to use (sync folder client) (existing install) 
+## How to use (sync folder client) (existing mod.czt install) 
 - Run MegaCZT. *(As Administrator)*
 - Paste the shared folder link into MEGA Folder URL entry.<br>      *- OPTIONAL: only needed if the url changed.*
 - Click auto path (for RoN) or Manual Path.<br>      *- OPTIONAL: only needed if you intend to switch games/install location.*
@@ -63,6 +68,7 @@
 + If it already exists it clears it for updates etc. If the folder doesnt exist it can just create a new one automatically, But if your 3rd party mods folder isnt deleted then you'll end up with 2 folders holding mods.<br>
 > [!CAUTION]
 >       - Technically you could keep another folder named mods etc for personal mods that arent within the shared folder, but that could lead to conflicts if not managed properly.
+
 
 
 
