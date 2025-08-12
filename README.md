@@ -1,3 +1,4 @@
+# How to install/use
 - Run the installer and complete the installation process.
 - Once installed, run the app as Administrator.
 - Click "Install Mega" and wait for the process to complete.
@@ -16,6 +17,7 @@
   - The reason we delete the mod folder is because the tool looks for any exisitng folders within the Destination path. If it already exists it clears it for updates etc. If it doesnt exist it can just create a new one automatically, But if your 3rd party mods folder isnt deleted then you'll essentially end up with double mod folders. This is because the tool is designed to only delete the folder that matches the shared mega folder.
 
 - Right Now auto detect only works for RoN. More Gamnes will be added in the future.
+
 
 
 
