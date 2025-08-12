@@ -11,7 +11,7 @@
 - Browse Mods folder
 - Auto download and install mod folder to proper location
 - Progress bars, Log window.
-# How to Install/First time use guide:
+# How to Install/First Time Use Guide:
 > [!IMPORTANT]
       - (Host) Requires a shared MEGA folder url+key. (the url that has both in one)<br>
       - (Host) Share folder on MEGA > Distribute the link (url) to users you want to sync with.<br>
@@ -53,6 +53,7 @@
 + If it already exists it clears it for updates etc. If the folder doesnt exist it can just create a new one automatically, But if your 3rd party mods folder isnt deleted then you'll end up with 2 folders holding mods.<br>
 > [!CAUTION]
 >       - Technically you could keep another folder named mods etc for personal mods that arent within the shared folder, but that could lead to conflicts if not managed properly.
+
 
 
 
