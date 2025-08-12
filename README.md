@@ -3,10 +3,8 @@
 - Click "Install MegaCMD" and wait for the process to complete.
 - After installation, click "Detect MegaCMD" to confirm it’s properly set up.
 - Paste your shared MEGA folder link.
-  ↳  Since we’re using my shared folder, use:
-  ↳  https://mega.nz/folder/xp8HCRqS#wBGcs_IiqEKbTGmz04goiA
-- Click "Auto Path".
-- It should automatically detect something similar to:
+- Click "Auto Path". (currently only works for RoN)
+  It should automatically detect something similar to:
   ↳  *D:\Program Files (x86)\Steam\steamapps\common\Ready Or Not\ReadyOrNot\Content\Paks*
   ↳  Let me know if it doesn’t work.
 - Click "Save Config".
