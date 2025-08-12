@@ -25,9 +25,10 @@
   - For example, mod.io has its own folder — delete the one holding the mods from other sites (the tool creates a new folder)
     - *DO NOT DELETE mod.io if you see it. I was just using it as an example.* 
   - Notes:
-    - MegaCZT is hard coded to only update folders named mod.czt currently. This is because otherwise it will dynamically change your folder name to the files url extension, and not the actual folder name.
+    - MegaCZT is hard coded to only update folders named mod.czt currently. Otherwise it will dynamically change the  folder name to the files url extension, and not the actual folder name. which is annoying.
 - Finally, click "Download Folder" to begin downloading the mods.
   - The reason we delete the mod folder is because the tool looks for any exisitng folders within the Destination path. If it already exists it clears it for updates etc. If it doesnt exist it can just create a new one automatically, But if your 3rd party mods folder isnt deleted then you'll essentially end up with double mod folders. This is because the tool is designed to only delete the folder that matches the shared mega folder.
+
 
 
 
