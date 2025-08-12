@@ -1,6 +1,6 @@
 - Run the installer and complete the installation process.
 - Once installed, run the app as Administrator.
-- Click "Install Dependencies" and wait for the process to complete.
+- Click "Install MegaCMD" and wait for the process to complete.
 - After installation, click "Detect MegaCMD" to confirm it’s properly set up.
 - Paste your shared MEGA folder link.
 - Click "Auto Path". (RoN Users Only)
