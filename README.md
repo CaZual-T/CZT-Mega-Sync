@@ -21,8 +21,8 @@
   -  Let me know if it doesn’t work.
 - Click "Save Config".
 - Before continuing, delete the folder currently holding all your mods:
-  *- Note: You can keep your original mods folder in the situation that maybe you want to use mods/files that arent included within the shared folder.*
-    *- Be warned that this could lead to conflicts with mods within the mod.czt folder. It's up to the user to manage that if they choose to keep multiple mod folders.*
+  - *Note: You can keep your original mods folder in the situation that maybe you want to use mods/files that arent included within the shared folder.*
+    - *Be warned that this could lead to conflicts with mods within the mod.czt folder. It's up to the user to manage that if they choose to keep multiple mod folders.*
   - For example, mod.io has its own folder — delete the one holding the mods from other sites (the tool creates a new folder based on your shared mega folders name.)
     - DO NOT DELETE mod.io if you see it. i was just using it as an example.   
   - Notes:
@@ -30,6 +30,7 @@
   - Exception: If it’s already named *mod.czt*, or you just dont have a mods folder to begin with, skip this step.
 - Finally, click "Download Folder" to begin downloading the mods.
   - The reason we delete the mod folder is because the tool looks for any exisitng folders within the Destination path. If it already exists it clears it for updates etc. If it doesnt exist it can just create a new one automatically, But if your 3rd party mods folder isnt deleted then you'll essentially end up with double mod folders. This is because the tool is designed to only delete the folder that matches the shared mega folder.
+
 
 
 
