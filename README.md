@@ -32,9 +32,10 @@
       - This is due to my tool dynamically changing the folder name to the files url extension, and not the actual folder name. which is annoying.
 - Finally, click "Download Folder" to begin downloading the mods.
 
-      - The reason we delete the mod folder is because the tool looks for any exisitng mod.czt folders within the Destination path.<br>
-      - If it already exists it clears it for updates etc. If the folder doesnt exist it can just create a new one automatically, But if your 3rd party mods folder isnt deleted then you'll end up with 2 folders holding mods.<br>
-      - Technically you could keep another folder named mods etc for personal mods that arent within the shared folder, but that could lead to conflicts if not managed properly.
+  - The reason we delete the mod folder is because the tool looks for any exisitng mod.czt folders within the Destination path.<br>
+  - If it already exists it clears it for updates etc. If the folder doesnt exist it can just create a new one automatically, But if your 3rd party mods folder isnt deleted then you'll end up with 2 folders holding mods.<br>
+  - Technically you could keep another folder named mods etc for personal mods that arent within the shared folder, but that could lead to conflicts if not managed properly.
+
 
 
 
