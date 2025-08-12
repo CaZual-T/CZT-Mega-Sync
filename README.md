@@ -13,8 +13,9 @@
 - Progress bars, Log window.
 # How to Install/First time use (In depth guide):
 > [!IMPORTANT]
-      - Requires a shared MEGA folder url+key. (the url that has both in one)<br>
-      - Get this by sharing your folder on mega or getting the link from the owner of the shared folder.
+      - (Host) Requires a shared MEGA folder url+key. (the url that has both in one)<br>
+      - (Host) Get this by sharing your folder on mega.<br>
+      - (Client) The user that owns the shared folder will provide clients with the shared folder link.
 - Run the installer and complete the installation process.
 - Once installed, run the app as Administrator.
 - Click "Install Mega" and wait for the process to complete.
@@ -62,6 +63,7 @@
 + If it already exists it clears it for updates etc. If the folder doesnt exist it can just create a new one automatically, But if your 3rd party mods folder isnt deleted then you'll end up with 2 folders holding mods.<br>
 > [!CAUTION]
 >       - Technically you could keep another folder named mods etc for personal mods that arent within the shared folder, but that could lead to conflicts if not managed properly.
+
 
 
 
