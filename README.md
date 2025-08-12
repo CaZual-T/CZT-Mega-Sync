@@ -25,7 +25,7 @@
 - Click "Save Config".
 - Before continuing, delete the folder currently holding all of your mods:
   - Exception: If it’s already named *mod.czt*, or you just dont have a mods folder to begin with, skip this step.
-  - For example, mod.io has its own folder — delete the one holding the mods from other sites (the tool creates a new folder)<br>
+  - For example, mod.io has its own folder ~ delete the one holding the mods from other sites (the tool creates a new folder)<br>
      *DO NOT DELETE mod.io if you see it. I was just using it as an example.* 
 >[!NOTE]
       - MegaCZT is hard coded to only update folders named mod.czt currently.<br>
@@ -38,6 +38,7 @@
 + If it already exists it clears it for updates etc. If the folder doesnt exist it can just create a new one automatically, But if your 3rd party mods folder isnt deleted then you'll end up with 2 folders holding mods.<br>
 > [!CAUTION]
 >       - Technically you could keep another folder named mods etc for personal mods that arent within the shared folder, but that could lead to conflicts if not managed properly.
+
 
 
 
