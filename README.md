@@ -43,8 +43,8 @@
 
 ## How to use (sync folder client) (existing mod.czt install) 
 - Run MegaCZT. *(As Administrator)*
-- Paste the shared folder link into MEGA Folder URL entry.<br>      *- OPTIONAL: only needed if the url changed.*
-- Click auto path (for RoN) or Manual Path.<br>      *- OPTIONAL: only needed if you intend to switch games/install location.*
+- Paste the shared folder link into MEGA Folder URL entry.      *- OPTIONAL: only needed if the url changed.*
+- Click auto path (for RoN) or Manual Path.      *- OPTIONAL: only needed if you intend to switch games/install location.*
 - Download.
 
 
@@ -53,6 +53,7 @@
 + If it already exists it clears it for updates etc. If the folder doesnt exist it can just create a new one automatically, But if your 3rd party mods folder isnt deleted then you'll end up with 2 folders holding mods.<br>
 > [!CAUTION]
 >       - Technically you could keep another folder named mods etc for personal mods that arent within the shared folder, but that could lead to conflicts if not managed properly.
+
 
 
 
