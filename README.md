@@ -11,8 +11,8 @@
 - Progress bars, Log window.
 # How to Install/First time use:
 > [!IMPORTANT]
-      > Requirements: shared MEGA folder url+key. (the url that has both in one)
-      > Get this by sharing your folder on mega or getting the link from the owner of the shared folder.
+      - Requirements: shared MEGA folder url+key. (the url that has both in one)
+      - Get this by sharing your folder on mega or getting the link from the owner of the shared folder.
 - Run the installer and complete the installation process.
 - Once installed, run the app as Administrator.
 - Click "Install Mega" and wait for the process to complete.
@@ -32,6 +32,7 @@
 - Finally, click "Download Folder" to begin downloading the mods.
 
 - The reason we delete the mod folder is because the tool looks for any exisitng mod.czt folders within the Destination path. If it already exists it clears it for updates etc. If the folder doesnt exist it can just create a new one automatically, But if your 3rd party mods folder isnt deleted then you'll end up with 2 folders holding mods. Technically you could keep another folder named mods etc for personal mods that arent within the shared folder, but that could lead to conflicts if not managed properly.
+
 
 
 
