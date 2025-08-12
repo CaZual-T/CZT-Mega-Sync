@@ -1,4 +1,9 @@
-# How to install/use
+# What is MegaCZT?
+- MegaCZT utilizes a shared mega folder link to then download and install onto a client machine.
+- It works by inputing a mega url, then downloading to the specified path.
+- Essentially only one person needs a mega account to they can upload and share a folder. Then other user can use this tool to download that folder.
+- This is to help those none tech savy friends finally install those mods you always talk about!
+# How to Install/Use MegaCZT
 - Run the installer and complete the installation process.
 - Once installed, run the app as Administrator.
 - Click "Install Mega" and wait for the process to complete.
@@ -17,6 +22,7 @@
   - The reason we delete the mod folder is because the tool looks for any exisitng folders within the Destination path. If it already exists it clears it for updates etc. If it doesnt exist it can just create a new one automatically, But if your 3rd party mods folder isnt deleted then you'll essentially end up with double mod folders. This is because the tool is designed to only delete the folder that matches the shared mega folder.
 
 - Right Now auto detect only works for RoN. More Gamnes will be added in the future.
+
 
 
 
