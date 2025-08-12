@@ -21,7 +21,12 @@
 - Finally, click "Download Folder" to begin downloading the mods.
   - The reason we delete the mod folder is because the tool looks for any exisitng folders within the Destination path. If it already exists it clears it for updates etc. If it doesnt exist it can just create a new one automatically, But if your 3rd party mods folder isnt deleted then you'll essentially end up with double mod folders. This is because the tool is designed to only delete the folder that matches the shared mega folder.
 
-- Right Now auto detect only works for RoN. More Gamnes will be added in the future.
+# Features
+- Auto Install/Detect Mega CMD
+- Auto Set Path & Manual Set Path
+- Browse Mods folder
+- Auto download and install mod folder to proper location
+- Progress bars, Log window.
 
 
 
