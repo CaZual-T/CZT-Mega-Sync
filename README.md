@@ -9,6 +9,11 @@
 - Browse Mods folder
 - Auto download and install mod folder to proper location
 - Progress bars, Log window.
+# How it works
+- Share a folder on mega.
+- Share the link with users you want to sync with.
+- Download and use this tool
+- Insert the shared folder link into the "mega folder url" entry.
 # How to Install/First time use:
 > [!IMPORTANT]
       - Requires a shared MEGA folder url+key. (the url that has both in one)<br>
@@ -31,14 +36,13 @@
       - MegaCZT is hard coded to only update folders named mod.czt currently.<br>
       - This is due to my tool dynamically changing the folder name to the files url extension, and not the actual folder name. which is annoying.
 - Finally, click "Download Folder" to begin downloading the mods.
-# How it works
-- Share a folder on mega.
-- People that you share the link with can input it into this tool and download and install the mod folder directly.
+
 ## Sidenotes
 + The reason we delete the mod folder is because the tool looks for any exisitng mod.czt folders within the Destination path.<br>
 + If it already exists it clears it for updates etc. If the folder doesnt exist it can just create a new one automatically, But if your 3rd party mods folder isnt deleted then you'll end up with 2 folders holding mods.<br>
 > [!CAUTION]
 >       - Technically you could keep another folder named mods etc for personal mods that arent within the shared folder, but that could lead to conflicts if not managed properly.
+
 
 
 
