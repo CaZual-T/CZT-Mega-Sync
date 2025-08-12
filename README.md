@@ -9,23 +9,6 @@
 - Browse Mods folder
 - Auto download and install mod folder to proper location
 - Progress bars, Log window.
-## How setup as host (sync folder host)
-- Share a folder on mega.
-- Share the link generated with other users.
-## How to use (sync folder client) (first time use/install)
-- Download & Install MegaCZT.
-- Run MegaCZT. *(As Administrator)*
-- Paste shared folder link into MEGA Folder URL entry.
-- Click auto path (for RoN) or Manual Path
-- Click 'Install MEGA'
-- Click 'Detect MEGA'
-- Delete existing mod folder within destination path if it exists.
-- Download.
-## How to use (sync folder client) (existing install) 
-- Run MegaCZT. *(As Administrator)*
-- Paste the shared folder link into MEGA Folder URL entry.<br> *OPTIONAL: only needed if the url changed.*
-- Click auto path (for RoN) or Manual Path.<br> *OPTIONAL: only needed if you intend to switch games/install location.*
-- Download.
 # How to Install/First time use (In depth guide):
 > [!IMPORTANT]
       - Requires a shared MEGA folder url+key. (the url that has both in one)<br>
@@ -48,11 +31,30 @@
       - This is due to my tool dynamically changing the folder name to the files url extension, and not the actual folder name. which is annoying.
 - Finally, click "Download Folder" to begin downloading the mods.
 
-## Sidenotes
+## How setup as host (sync folder host)
+- Share a folder on mega.
+- Share the link generated with other users.
+## How to use (sync folder client) (first time use/install)
+- Download & Install MegaCZT.
+- Run MegaCZT. *(As Administrator)*
+- Paste shared folder link into MEGA Folder URL entry.
+- Click auto path (for RoN) or Manual Path
+- Click 'Install MEGA'
+- Click 'Detect MEGA'
+- Delete existing mod folder within destination path if it exists.
+- Download.
+## How to use (sync folder client) (existing install) 
+- Run MegaCZT. *(As Administrator)*
+- Paste the shared folder link into MEGA Folder URL entry.<br> *OPTIONAL: only needed if the url changed.*
+- Click auto path (for RoN) or Manual Path.<br> *OPTIONAL: only needed if you intend to switch games/install location.*
+- Download.
+
+### Sidenotes
 + The reason we delete the mod folder is because the tool looks for any exisitng mod.czt folders within the Destination path.<br>
 + If it already exists it clears it for updates etc. If the folder doesnt exist it can just create a new one automatically, But if your 3rd party mods folder isnt deleted then you'll end up with 2 folders holding mods.<br>
 > [!CAUTION]
 >       - Technically you could keep another folder named mods etc for personal mods that arent within the shared folder, but that could lead to conflicts if not managed properly.
+
 
 
 
