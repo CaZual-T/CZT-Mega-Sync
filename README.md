@@ -33,15 +33,14 @@
 # How it works (folder host)
 - Share a folder on mega.
 - Share the link generated with other users.
-# How it works (sync client) (initial install) 
-fto = first time use only
-- Download & Install MegaCZT. (fto)
+# How it works (sync client) (first time use/install)
+- Download & Install MegaCZT.
 - Run MegaCZT.
-- Paste shared folder link into MEGA Folder URL entry. (fto, but also if you need to update link)
-- Click auto path (for RoN) or Manual Path (other games/file types) to set destination entry. (fto, but also if you want to change games/install location)
-- Click 'Install MEGA' (fto)
-- Click 'Detect MEGA' (fto)
-- Delete existing mod folder within destination path if it exists. (first time use only)
+- Paste shared folder link into MEGA Folder URL entry.
+- Click auto path (for RoN) or Manual Path
+- Click 'Install MEGA'
+- Click 'Detect MEGA'
+- Delete existing mod folder within destination path if it exists.
 - Download.
 # How it works (sync client) (existing install) 
 - Run MegaCZT.
@@ -53,6 +52,7 @@ fto = first time use only
 + If it already exists it clears it for updates etc. If the folder doesnt exist it can just create a new one automatically, But if your 3rd party mods folder isnt deleted then you'll end up with 2 folders holding mods.<br>
 > [!CAUTION]
 >       - Technically you could keep another folder named mods etc for personal mods that arent within the shared folder, but that could lead to conflicts if not managed properly.
+
 
 
 
