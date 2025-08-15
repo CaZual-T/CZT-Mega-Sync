@@ -48,7 +48,7 @@ MegaSync Setup:
 - Once installed click the Mega icon in the system tray/bottom right of your desktop task bar (red circl with M)
 - Click + Add Sync at the top
 - This will allow you to select a folder to automatically sync to your mega drive.
-- Once setup, mega will automatically sync any file in that folder to mega. You can then get the link for that folder (go to your mega storage and right click to share and get link) and easily update without having to transfer all of your mods at one time.)
+- Once setup, mega will automatically sync any file in that folder to your mega folder. You can then get the link for that folder (go to your mega storage and right click to share and get link) and easily update without having to transfer all of your mods at one time.)
 >[!NOTE]
       - HOSTS:<br>
       - MegaCZT is hard coded to only download mega folders named mod.czt currently.<br>
