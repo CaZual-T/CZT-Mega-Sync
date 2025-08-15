@@ -20,8 +20,9 @@
 - Share a folder on mega.
 - Share the link generated with other users.
 >[!NOTE]
-      *- MegaCZT is hard coded to only update/download folders named mod.czt currently.<br>
-      - This is due to my tool dynamically changing the folder name to the files url extension, and not the actual folder name. which is annoying.*
+> HOSTS:
+>*- MegaCZT is hard coded to only download mega folders named mod.czt currently.<br>
+ - This is due to my tool dynamically changing the folder name to the files url extension, and not the actual folder name. which is annoying.*
 
 ## How to use (sync folder client) (first time use/install)
 - Download & Run MegaCZT_Installer.
