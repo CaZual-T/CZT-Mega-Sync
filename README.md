@@ -12,8 +12,6 @@
 - Simple UI with Progress bars, Log window, and easy to use buttons with tooltips.
 - Update MegaCZT from within the app (no need to download from github)
 - Persistent config.
-<img width="837" height="537" alt="{E336ADD2-7153-4003-9C69-5DC8D4A6B04A}" src="https://github.com/user-attachments/assets/101fc213-e9d9-4818-832e-bd2957ad25c2" />
-
 
 # How to Install/First Time Use Guide:
 > [!IMPORTANT]
@@ -45,6 +43,8 @@
 >[!CAUTION]
       - DOWNLOADING BEGINS A DIRECT FILE TRANSFER BETWEEN THE URL USED AND YOUR PC.<br>
       - ONLY DOWNLOAD/USE MEGA URLs FROM USERS THAT YOU TRUST!
+
+<img width="837" height="537" alt="{E336ADD2-7153-4003-9C69-5DC8D4A6B04A}" src="https://github.com/user-attachments/assets/101fc213-e9d9-4818-832e-bd2957ad25c2" />
 
 # How to use MegaCZT [HOST]
 - Create a folder named mod.czt (for Ready or Not put this folder next to mod.io)
