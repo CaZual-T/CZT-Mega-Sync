@@ -22,7 +22,7 @@
 
 ## How to use (sync folder client) (first time use/install)
 - Download & Run MegaCZT_Installer.
-- Run MegaCZT.
+- Open MegaCZT.
 - Paste the shared folder link into the 'MEGA Folder URL' entry.
 - Click "Auto Path" (currently only works for RoN) or Manual Path for other games/locations.
   - It should automatically detect something similar to:<br>
