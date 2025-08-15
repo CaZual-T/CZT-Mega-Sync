@@ -37,7 +37,8 @@
 - Download.
 
 ## How setup as host (sync folder HOST)
-- Share a folder on mega.
+- Upload a folder named mod.czt on mega. (check out https://mega.io/syncing to make this super easy on yourself)
+- Share the folder.
 - Share the link generated with other users.
 >[!NOTE]
       - HOSTS:<br>
