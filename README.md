@@ -4,7 +4,6 @@
 - One person needs a mega account so they can upload & share a folder. Then other users can use this tool to download that folder.
 - This is to help those none tech savy friends finally install those mods you always talk about!
 
-
 # Features:
 - Auto Install/Detect Mega CMD.
 - Auto Set Path & Manual Set Path.
@@ -21,10 +20,9 @@
 - Share a folder on mega.
 - Share the link generated with other users.
 
-
 ## How to use (sync folder client) (first time use/install)
-- Download & Install MegaCZT.
-- Run MegaCZT. *(As Administrator)*
+- Download & Run MegaCZT_Installer.
+- Run MegaCZT.
 - Paste the shared folder link into the 'MEGA Folder URL' entry.
 - Click "Auto Path" (currently only works for RoN) or Manual Path for other games/locations.
   - It should automatically detect something similar to:<br>
@@ -39,14 +37,12 @@
       *- MegaCZT is hard coded to only update/download folders named mod.czt currently.<br>
       - This is due to my tool dynamically changing the folder name to the files url extension, and not the actual folder name. which is annoying.*
 
-
 ## How to use (sync folder client) (existing mod.czt install) 
 - Run MegaCZT. *(As Administrator)*
 - Paste the shared folder link into MEGA Folder URL entry.      *- OPTIONAL: only needed if the url changed.*
 - Click auto path (for RoN) or Manual Path.      *- OPTIONAL: only needed if you intend to switch games/install location.*
 - Download.
 
-#
 ### Sidenotes
 + The reason we delete the mod folder is because the tool looks for any exisitng mod.czt folders within the Destination path.<br>
 + If it already exists it clears it for updates etc. If the folder doesnt exist it can just create a new one automatically, But if your 3rd party mods folder isnt deleted then you'll end up with 2 folders holding mods.<br>
