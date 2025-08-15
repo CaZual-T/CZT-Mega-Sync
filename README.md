@@ -19,6 +19,9 @@
 ## How setup as host (sync folder host)
 - Share a folder on mega.
 - Share the link generated with other users.
+>[!NOTE]
+      *- MegaCZT is hard coded to only update/download folders named mod.czt currently.<br>
+      - This is due to my tool dynamically changing the folder name to the files url extension, and not the actual folder name. which is annoying.*
 
 ## How to use (sync folder client) (first time use/install)
 - Download & Run MegaCZT_Installer.
@@ -33,9 +36,6 @@
      *- DO NOT DELETE mod.io if you see it. I was just using it as an example.*
   - EXCEPTION(S): If your current folder is named *mod.czt*, or you dont have a mods folder to begin with, skip this step.
 - <b>Click Download!</b>
->[!NOTE]
-      *- MegaCZT is hard coded to only update/download folders named mod.czt currently.<br>
-      - This is due to my tool dynamically changing the folder name to the files url extension, and not the actual folder name. which is annoying.*
 
 ## How to use (sync folder client) (existing mod.czt install) 
 - Run MegaCZT. 
