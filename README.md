@@ -38,7 +38,7 @@
       - This is due to my tool dynamically changing the folder name to the files url extension, and not the actual folder name. which is annoying.*
 
 ## How to use (sync folder client) (existing mod.czt install) 
-- Run MegaCZT. *(As Administrator)*
+- Run MegaCZT. 
 - Paste the shared folder link into MEGA Folder URL entry.      *- OPTIONAL: only needed if the url changed.*
 - Click auto path (for RoN) or Manual Path.      *- OPTIONAL: only needed if you intend to switch games/install location.*
 - Download.
