@@ -40,7 +40,7 @@
 - Click auto path (for RoN) or Manual Path for any location.      *- OPTIONAL: only needed if you intend to switch install location.*
 - Download.
 >[!CAUTION]
-      - DOWNLOADING BEGINS A DIRECT FILE TRANSFER.<br>
+      - DOWNLOADING BEGINS A DIRECT FILE TRANSFER BETWEEN THE URL USED AND YOUR PC.<br>
       - ONLY DOWNLOAD/USE MEGA URLs FROM USERS THAT YOU TRUST!
 
 
