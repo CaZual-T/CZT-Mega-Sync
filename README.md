@@ -16,6 +16,7 @@
       - (Host) Share folder on MEGA > Distribute the link (url) to users you want to sync with.<br>
       - (Client) The user that owns the shared folder will provide clients with the shared folder link (url).
 
+
 ## How to use MegaCZT [CLIENT] (first time use/install)
 - Download & Run MegaCZT_Installer.
 - Open MegaCZT.
@@ -32,15 +33,17 @@
   - EXCEPTION(S): If you dont have a mods folder to begin with, skip this step.
 - <b>Click Download!</b>
 
+
 ## How to use MegaCZT [CLIENT] after initial setup. 
 - Run MegaCZT. 
 - Paste a shared MEGA folder link into the MEGA Folder URL entry.      *- OPTIONAL: only needed if the url changed.*
 - Click auto path (for RoN) or Manual Path for any location.      *- OPTIONAL: only needed if you intend to switch install location.*
 - Download.
-
 >[!CAUTION]
       - DOWNLOADING BEGINS A DIRECT FILE TRANSFER.<br>
       - ONLY DOWNLOAD/USE MEGA URLs FROM USERS THAT YOU TRUST!
+
+
 
 ## How to use MegaCZT [HOST]
 - Create a folder named mod.czt (for Ready or Not put this folder next to mod.io)
