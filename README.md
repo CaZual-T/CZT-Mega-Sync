@@ -29,9 +29,8 @@
 - Click "Auto Path" (currently only works for RoN) or Manual Path for other games/locations.
   - It should automatically detect something similar to:<br>
     `D:\Program Files (x86)\Steam\steamapps\common\Ready Or Not\ReadyOrNot\Content\Paks`
-- Click 'Install MEGA'. (wait for it to complete)
-- Click 'Detect MEGA'.
-- Before continuing, delete the folder currently holding all of your mods:
+- Click 'Choco Install'. (wait for it to complete) (app will auto close and need relaunched to complete setup)
+- Before downloading, delete the folder currently holding all of your mods:
   - For example, mod.io has its own folder ~ delete the one holding the mods from other sites (the tool creates a new folder)<br>
      *- DO NOT DELETE mod.io if you see it. I was just using it as an example.*
   - EXCEPTION(S): If your current folder is named *mod.czt*, or you dont have a mods folder to begin with, skip this step.
@@ -53,6 +52,7 @@
 + If it already exists it clears it for updates etc. If the folder doesnt exist it can just create a new one automatically, But if your 3rd party mods folder isnt deleted then you'll end up with 2 folders holding mods.<br>
 > [!CAUTION]
 >       - Technically you could keep another folder named mods etc for personal mods that arent within the shared folder, but that could lead to conflicts if not managed properly.
+
 
 
 
