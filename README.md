@@ -12,8 +12,8 @@
 - Progress bars, Log window.
 # How to Install/First Time Use Guide:
 > [!IMPORTANT]
-      - (Host) Scroll to bottom<br>
-      - (Client) The user that owns the shared folder will provide clients with the shared folder link (url).
+      - (Host) Scroll to bottom for setup and how to obtain mega folder url+key<br>
+      - (Client) Valid sharerd mega folder url. (obtain from whoever is hosting the folder)
 
 ## How to use MegaCZT [CLIENT] 
 ### First time use/Install:
