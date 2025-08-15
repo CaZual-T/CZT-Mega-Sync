@@ -17,7 +17,7 @@
 # How to Install/First Time Use Guide:
 > [!IMPORTANT]
       - (Host) Scroll to bottom for setup and how to generate a shared mega folder url+key.<br>
-      - (Client) Valid sharerd mega folder url. (obtain from whoever is hosting the folder)
+      - (Client) Valid shared mega folder url. (obtain from whoever is hosting the folder)
 
 # How to use MegaCZT [CLIENT] 
 ### First time use/Install:
