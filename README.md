@@ -2,7 +2,7 @@
 - MegaCZT utilizes a shared mega folder link to then download and install onto a client machine.
 - It works by inputing a mega url, then downloading to the specified destination.
 - One person needs a mega account so they can upload & share a folder. Then other users can use this tool to download that folder.
-- This is to help those none tech savy friends finally install those mods you always talk about!
+- The whole point of this is so that you and your friends can all have the exact same mods installed without issue.
 
 # Features:
 - Auto Install/Detect Mega CMD.
