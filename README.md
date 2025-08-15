@@ -23,6 +23,7 @@
 - Download & Run MegaCZT_Installer.
 - Open MegaCZT.
 - Click 'Choco Install'. (wait for it to complete) (app will auto close and need relaunched to complete setup)
+        - Note that during install a powershell window will popup to install choco, DO NOT close, it will close on its own once complete.
 - Paste a shared MEGA folder link into the MEGA Folder URL entry. (get this from whoever is hosting the folder)
 - Click "Auto Path" (For users syncing Ready or Not folders) or Manual Path for other games/locations.
   - It should automatically detect something similar to:<br>
