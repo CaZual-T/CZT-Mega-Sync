@@ -19,11 +19,12 @@
 ## How to use (sync folder CLIENT) (first time use/install)
 - Download & Run MegaCZT_Installer.
 - Open MegaCZT.
+- Click 'Choco Install'. (wait for it to complete) (app will auto close and need relaunched to complete setup)
 - Paste the shared folder link into the 'MEGA Folder URL' entry. (get this from whoever is hosting the folder)
 - Click "Auto Path" (currently only works for RoN) or Manual Path for other games/locations.
   - It should automatically detect something similar to:<br>
     `D:\Program Files (x86)\Steam\steamapps\common\Ready Or Not\ReadyOrNot\Content\Paks`
-- Click 'Choco Install'. (wait for it to complete) (app will auto close and need relaunched to complete setup)
+- Save Config.
 - Before downloading, if you have an existing mod folder please rename it to mod.czt
   - EXCEPTION(S): If you dont have a mods folder to begin with, skip this step.
 - <b>Click Download!</b>
