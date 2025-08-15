@@ -39,9 +39,8 @@
 - Download.
 
 >[!CAUTION]
-      - THIS IS A DIRECT FILE TRANSFER.
+      - THIS IS A DIRECT FILE TRANSFER.<br>
       - ONLY DOWNLOAD AND USE URLs FROM USERS THAT YOU TRUST!
-
 
 ## How to use MegaCZT [HOST]
 - Create a folder named mod.czt (for Ready or Not put this folder next to mod.io)
