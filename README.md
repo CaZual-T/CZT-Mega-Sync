@@ -16,14 +16,6 @@
       - (Host) Share folder on MEGA > Distribute the link (url) to users you want to sync with.<br>
       - (Client) The user that owns the shared folder will provide clients with the shared folder link (url).
 
-## How setup as host (sync folder HOST)
-- Share a folder on mega.
-- Share the link generated with other users.
->[!NOTE]
-      - HOSTS:<br>
-      - MegaCZT is hard coded to only download mega folders named mod.czt currently.<br>
-      - This is due to my tool dynamically changing the folder name to the files url extension, and not the actual folder name. which is annoying.
-
 ## How to use (sync folder CLIENT) (first time use/install)
 - Download & Run MegaCZT_Installer.
 - Open MegaCZT.
@@ -43,6 +35,15 @@
 - Paste the shared folder link into MEGA Folder URL entry.      *- OPTIONAL: only needed if the url changed.*
 - Click auto path (for RoN) or Manual Path.      *- OPTIONAL: only needed if you intend to switch games/install location.*
 - Download.
+
+## How setup as host (sync folder HOST)
+- Share a folder on mega.
+- Share the link generated with other users.
+>[!NOTE]
+      - HOSTS:<br>
+      - MegaCZT is hard coded to only download mega folders named mod.czt currently.<br>
+      - This is due to my tool dynamically changing the folder name to the files url extension, and not the actual folder name. which is annoying.
+      - Also megaSYNC is useful for hosts. It links your folder to a folder on mega and updates live. No need to upload massive packs. 
 
 ### Sidenotes
 + The reason we delete the mod folder is because the tool looks for any exisitng mod.czt folders within the Destination path.<br>
