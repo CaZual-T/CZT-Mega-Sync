@@ -67,7 +67,6 @@ MegaSync Setup:
       - HOSTS:<br>
       - MegaCZT is hard coded to only download mega folders named mod.czt currently.<br>
       - This is due to my tool dynamically changing the folder name to the files url extension, and not the actual folder name. which is annoying.
-      - Also megaSYNC is useful for hosts. It links your folder to a folder on mega and updates live. No need to upload massive packs. 
 
 
 
