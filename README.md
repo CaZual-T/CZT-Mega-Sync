@@ -24,7 +24,7 @@
   - It should automatically detect something similar to:<br>
     `D:\Program Files (x86)\Steam\steamapps\common\Ready Or Not\ReadyOrNot\Content\Paks`
 - Click 'Choco Install'. (wait for it to complete) (app will auto close and need relaunched to complete setup)
-- Before downloading, delete the folder currently holding all of your mods:
+- Before downloading, delete the folder currently holding all of your mods: (or rename it to mod.czt)
   - For example, mod.io has its own folder ~ delete the one holding the mods from other sites (the tool creates a new folder)<br>
      *- DO NOT DELETE mod.io if you see it. I was just using it as an example.*
   - EXCEPTION(S): If your current folder is named *mod.czt*, or you dont have a mods folder to begin with, skip this step.
