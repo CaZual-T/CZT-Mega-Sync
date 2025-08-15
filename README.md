@@ -20,7 +20,7 @@
 - Download & Run MegaCZT_Installer.
 - Open MegaCZT.
 - Click 'Choco Install'. (wait for it to complete) (app will auto close and need relaunched to complete setup)
-- Paste the shared folder link into the 'MEGA Folder URL' entry. (get this from whoever is hosting the folder)
+- Paste a shared MEGA folder link into the MEGA Folder URL entry. (get this from whoever is hosting the folder)
 - Click "Auto Path" (currently only works for RoN) or Manual Path for other games/locations.
   - It should automatically detect something similar to:<br>
     `D:\Program Files (x86)\Steam\steamapps\common\Ready Or Not\ReadyOrNot\Content\Paks`
@@ -31,7 +31,7 @@
 
 ## How to use (sync folder client) (existing mod.czt install) 
 - Run MegaCZT. 
-- Paste the shared folder link into MEGA Folder URL entry.      *- OPTIONAL: only needed if the url changed.*
+- Paste a shared MEGA folder link into the MEGA Folder URL entry.      *- OPTIONAL: only needed if the url changed.*
 - Click auto path (for RoN) or Manual Path for any location.      *- OPTIONAL: only needed if you intend to switch install location.*
 - Download.
 
