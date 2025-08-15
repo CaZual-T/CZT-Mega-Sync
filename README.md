@@ -55,6 +55,8 @@
 
 MegaSync Setup:
 - Create a folder named mod.czt (for Ready or Not put this folder next to mod.io @ \Program Files (x86)\Steam\steamapps\common\Ready Or Not\ReadyOrNot\Content\Paks)
+<img width="673" height="200" alt="{6048EBEA-DD03-4A76-A45B-589293376AC6}" src="https://github.com/user-attachments/assets/43b76e9b-78b2-4030-b1d4-997dc6167d1c" />
+
 - Download megasync (desktop app) (https://mega.io/syncing)
 - Once installed click the Mega icon in the system tray/bottom right of your desktop task bar (red circl with M)
 - Click + Add Sync at the top
