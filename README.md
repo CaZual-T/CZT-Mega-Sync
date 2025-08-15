@@ -38,6 +38,11 @@
 - Click auto path (for RoN) or Manual Path for any location.      *- OPTIONAL: only needed if you intend to switch install location.*
 - Download.
 
+>[!CAUTION]
+      - THIS IS A DIRECT FILE TRANSFER.
+      - ONLY DOWNLOAD AND USE URLs FROM USERS THAT YOU TRUST!
+
+
 ## How to use MegaCZT [HOST]
 - Create a folder named mod.czt (for Ready or Not put this folder next to mod.io)
 - Upload the folder to mega or use mega sync (see more on mega sync below) 
