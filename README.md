@@ -38,16 +38,17 @@
 - Click auto path (for RoN) or Manual Path for any location.      *- OPTIONAL: only needed if you intend to switch install location.*
 - Download.
 
-## How setup as host (MEGA folder HOST)
-- Upload a folder named mod.czt on mega. (check out https://mega.io/syncing to make this super easy on yourself)
+## How to use MegaCZT [HOST]
+- Create a folder named mod.czt (for Ready or Not put this folder next to mod.io)
+- Upload the folder to mega or use mega sync (see more on mega sync below) 
 - Share the folder.
 - Share the link generated with other users.
 
 MegaSync Setup:
-- Download megasync (desktop app) from the link above
+- Download megasync (desktop app) (https://mega.io/syncing)
 - Once installed click the Mega icon in the system tray/bottom right of your desktop task bar (red circl with M)
 - Click + Add Sync at the top
-- This will allow you to select a folder to automatically sync to your mega drive.
+- This will allow you to select your mod.czt folder and automatically sync to your mega drive.
 - Once setup, mega will automatically sync any file in that folder to your mega folder. You can then get the link for that folder (go to your mega storage and right click to share and get link) and easily update without having to transfer all of your mods at one time.)
 >[!NOTE]
       - HOSTS:<br>
