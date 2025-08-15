@@ -3,7 +3,7 @@
 - It works by inputting a mega url, then downloading to the specified destination.
 - One person needs a mega account so they can upload & share a folder (host).<br> 
       - Then other users can use this tool to download and install that folder (client).
-- The whole point of this is so that you and your friends can all have the exact same mods installed without issue.
+- The whole point of this is so that you and your friends can all have the exact same mods installed without issue at the click of a button.
 
 # Features:
 - Auto Install/Detect Mega CMD.
