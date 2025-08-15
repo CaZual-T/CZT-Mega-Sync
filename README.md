@@ -7,9 +7,14 @@
 # Features:
 - Auto Install/Detect Mega CMD.
 - Auto Set Path & Manual Set Path.
-- Browse Mods folder.
+- Browse Mods/Logs/CLI folder.
 - Auto download and install mod folder to proper location.
-- Progress bars, Log window.
+- Simple UI with Progress bars, Log window, and easy to use buttons with tooltips.
+- Update MegaCZT from within the app (no need to download from github)
+- Persistent config.
+<img width="837" height="537" alt="{E336ADD2-7153-4003-9C69-5DC8D4A6B04A}" src="https://github.com/user-attachments/assets/101fc213-e9d9-4818-832e-bd2957ad25c2" />
+
+
 # How to Install/First Time Use Guide:
 > [!IMPORTANT]
       - (Host) Scroll to bottom for setup and how to generate a shared mega folder url+key.<br>
@@ -40,8 +45,6 @@
 >[!CAUTION]
       - DOWNLOADING BEGINS A DIRECT FILE TRANSFER BETWEEN THE URL USED AND YOUR PC.<br>
       - ONLY DOWNLOAD/USE MEGA URLs FROM USERS THAT YOU TRUST!
-
-<img width="840" height="540" alt="{343DD261-BA21-4600-8E51-02D05838F57A}" src="https://github.com/user-attachments/assets/44ab8b62-f7e6-4769-a62a-3492118dacdd" />
 
 ## How to use MegaCZT [HOST]
 - Create a folder named mod.czt (for Ready or Not put this folder next to mod.io)
