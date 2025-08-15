@@ -20,7 +20,7 @@
       - (Host) Scroll to bottom for setup and how to generate a shared mega folder url+key.<br>
       - (Client) Valid sharerd mega folder url. (obtain from whoever is hosting the folder)
 
-## How to use MegaCZT [CLIENT] 
+# How to use MegaCZT [CLIENT] 
 ### First time use/Install:
 - Download & Run MegaCZT_Installer.
 - Open MegaCZT.
@@ -46,7 +46,7 @@
       - DOWNLOADING BEGINS A DIRECT FILE TRANSFER BETWEEN THE URL USED AND YOUR PC.<br>
       - ONLY DOWNLOAD/USE MEGA URLs FROM USERS THAT YOU TRUST!
 
-## How to use MegaCZT [HOST]
+# How to use MegaCZT [HOST]
 - Create a folder named mod.czt (for Ready or Not put this folder next to mod.io)
 - Upload the folder to mega or use mega sync (see more on mega sync below) 
 - Share the folder.
