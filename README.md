@@ -19,7 +19,7 @@
 ## How to use (sync folder CLIENT) (first time use/install)
 - Download & Run MegaCZT_Installer.
 - Open MegaCZT.
-- Paste the shared folder link into the 'MEGA Folder URL' entry.
+- Paste the shared folder link into the 'MEGA Folder URL' entry. (get this from whoever is hosting the folder)
 - Click "Auto Path" (currently only works for RoN) or Manual Path for other games/locations.
   - It should automatically detect something similar to:<br>
     `D:\Program Files (x86)\Steam\steamapps\common\Ready Or Not\ReadyOrNot\Content\Paks`
