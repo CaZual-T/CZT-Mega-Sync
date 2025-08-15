@@ -12,10 +12,8 @@
 - Progress bars, Log window.
 # How to Install/First Time Use Guide:
 > [!IMPORTANT]
-      - (Host) Requires a MEGA account and shared MEGA folder url+key. (the url that has both in one)<br>
-      - (Host) Share folder on MEGA > Distribute the link (url) to users you want to sync with.<br>
+      - (Host) Scroll to bottom<br>
       - (Client) The user that owns the shared folder will provide clients with the shared folder link (url).
-
 
 ## How to use MegaCZT [CLIENT] 
 ### First time use/Install:
@@ -43,7 +41,7 @@
       - DOWNLOADING BEGINS A DIRECT FILE TRANSFER BETWEEN THE URL USED AND YOUR PC.<br>
       - ONLY DOWNLOAD/USE MEGA URLs FROM USERS THAT YOU TRUST!
 
-
+<img width="840" height="540" alt="{343DD261-BA21-4600-8E51-02D05838F57A}" src="https://github.com/user-attachments/assets/44ab8b62-f7e6-4769-a62a-3492118dacdd" />
 
 ## How to use MegaCZT [HOST]
 - Create a folder named mod.czt (for Ready or Not put this folder next to mod.io)
