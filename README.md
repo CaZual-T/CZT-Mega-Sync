@@ -56,8 +56,12 @@ MegaSync Setup:
 - Download megasync (desktop app) (https://mega.io/syncing)
 - Once installed click the Mega icon in the system tray/bottom right of your desktop task bar (red circl with M)
 - Click + Add Sync at the top
+<img width="388" height="551" alt="{B79580A5-5382-4423-9C46-3AB0F1660A1F}" src="https://github.com/user-attachments/assets/307d6a47-49dd-435c-a117-828199cf16aa" />
+
 - This will allow you to select your mod.czt folder and automatically sync to your mega drive.
 - Once setup, mega will automatically sync any file in that folder to your mega folder. You can then get the link for that folder (go to your mega storage and right click to share and get link) and easily update without having to transfer all of your mods at one time.)
+<img width="94" height="33" alt="{4ACB2843-9920-461D-AE18-31BF3F3605A3}" src="https://github.com/user-attachments/assets/593c8cb2-c7a8-4900-a9bd-1f4f54b285dc" />
+
 - Now anytime you update your mods folder, your friends can run MegaCZT to download your shared folder and automatically install a copy to their pc with the click of a button.
 >[!NOTE]
       - HOSTS:<br>
