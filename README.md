@@ -12,7 +12,7 @@
 - Progress bars, Log window.
 # How to Install/First Time Use Guide:
 > [!IMPORTANT]
-      - (Host) Requires a shared MEGA folder url+key. (the url that has both in one)<br>
+      - (Host) Requires a MEGA account and shared MEGA folder url+key. (the url that has both in one)<br>
       - (Host) Share folder on MEGA > Distribute the link (url) to users you want to sync with.<br>
       - (Client) The user that owns the shared folder will provide clients with the shared folder link (url).
 
