@@ -32,7 +32,7 @@
   - EXCEPTION(S): If you dont have a mods folder to begin with, skip this step.
 - <b>Click Download!</b>
 
-## How to use MegaCZT [CLIENT] (existing mod.czt install) 
+## How to use MegaCZT [CLIENT] after initial setup. 
 - Run MegaCZT. 
 - Paste a shared MEGA folder link into the MEGA Folder URL entry.      *- OPTIONAL: only needed if the url changed.*
 - Click auto path (for RoN) or Manual Path for any location.      *- OPTIONAL: only needed if you intend to switch install location.*
@@ -50,6 +50,7 @@ MegaSync Setup:
 - Click + Add Sync at the top
 - This will allow you to select your mod.czt folder and automatically sync to your mega drive.
 - Once setup, mega will automatically sync any file in that folder to your mega folder. You can then get the link for that folder (go to your mega storage and right click to share and get link) and easily update without having to transfer all of your mods at one time.)
+- Now anytime you update your mods folder, your friends can run MegaCZT to download your shared folder and automaticallu install a copy to their pc with the click of a button.
 >[!NOTE]
       - HOSTS:<br>
       - MegaCZT is hard coded to only download mega folders named mod.czt currently.<br>
