@@ -49,7 +49,8 @@
 <img width="837" height="537" alt="{E336ADD2-7153-4003-9C69-5DC8D4A6B04A}" src="https://github.com/user-attachments/assets/101fc213-e9d9-4818-832e-bd2957ad25c2" />
 
 # How to use MegaCZT [HOST]
-- Create a folder named mod.czt (you can use my tool CZT Mod Installer <https://github.com/CaZual-T/CZT-Mod-Manager>)
+- Create a folder named mod.czt (you can use my tool CZT Mod Manager <https://github.com/CaZual-T/CZT-Mod-Manager>)
+  > If you use my manager be sure to sync the mod.czt folder within CZT Mod Manager/profile mods/Ready or Not/mod.czt
 - Upload the folder to mega or use mega sync (see more on mega sync below) 
 - Share the folder.
 - Share the link generated with other users.
