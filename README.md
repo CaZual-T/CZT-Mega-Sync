@@ -50,7 +50,7 @@
 
 # How to use MegaCZT [HOST]
 - Create a folder named mod.czt (you can use my tool CZT Mod Manager <https://github.com/CaZual-T/CZT-Mod-Manager>)
-  > If you use my manager be sure to sync the mod.czt folder within CZT Mod Manager/profile mods/Ready or Not/mod.czt
+  > If you use my manager be sure to use the mod.czt folder within CZT Mod Manager/profile mods/Ready or Not/mod.czt ← sync that one.
 - Upload the folder to mega or use mega sync (see more on mega sync below) 
 - Share the folder.
 - Share the link generated with other users.
