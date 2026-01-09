@@ -26,8 +26,12 @@
 - Click 'Setup CLI'. (wait for it to complete) (app will auto close and need relaunched to complete setup)
         - Note that during install a powershell window will popup to install choco, DO NOT close, it will close on its own once complete.
 - Paste a shared MEGA folder link into the MEGA Folder URL entry. (get this from whoever is hosting the folder)
+  <img width="492" height="68" alt="image" src="https://github.com/user-attachments/assets/6a0c9365-d957-48a5-aad7-cb3dd6f3c9b0" />
+
 - Click "Auto Path" (For users syncing Ready or Not folders) or Manual Path for other games/locations.
   > Use manual if you use CZT Mod Manager : YourDrive:\CZT Mod Manager\profile_mods\Ready or Not
+  <img width="718" height="68" alt="image" src="https://github.com/user-attachments/assets/28cc97e1-fa8d-4014-98b5-781c1a226f6b" />
+
   - It should automatically detect something similar to:<br>
     `Program Files (x86)\Steam\steamapps\common\Ready Or Not\ReadyOrNot\Content\Paks`<br>
     `Program Files\Steam\steamapps\common\Ready Or Not\ReadyOrNot\Content\Paks`<br>
@@ -41,7 +45,6 @@
 ### How to use MegaCZT anytime after initial setup:
 - Run MegaCZT. 
 - Paste a shared MEGA folder link into the MEGA Folder URL entry.      *- OPTIONAL: only needed if the url changed.*
-- Click auto path (for RoN) or Manual Path for any location.      *- OPTIONAL: only needed if you intend to switch install location.*
 - Download.
 >[!CAUTION]
       - DOWNLOADING BEGINS A DIRECT FILE TRANSFER BETWEEN THE URL USED AND YOUR PC.<br>
