@@ -23,10 +23,11 @@
 ### First time use/Install:
 - Download & Run MegaCZT_Installer.
 - Open MegaCZT.
-- Click 'Choco Install'. (wait for it to complete) (app will auto close and need relaunched to complete setup)
+- Click 'Setup CLI'. (wait for it to complete) (app will auto close and need relaunched to complete setup)
         - Note that during install a powershell window will popup to install choco, DO NOT close, it will close on its own once complete.
 - Paste a shared MEGA folder link into the MEGA Folder URL entry. (get this from whoever is hosting the folder)
 - Click "Auto Path" (For users syncing Ready or Not folders) or Manual Path for other games/locations.
+  > Use manual if you use CZT Mod Manager : YourDrive:\CZT Mod Manager\profile_mods\Ready or Not
   - It should automatically detect something similar to:<br>
     `Program Files (x86)\Steam\steamapps\common\Ready Or Not\ReadyOrNot\Content\Paks`<br>
     `Program Files\Steam\steamapps\common\Ready Or Not\ReadyOrNot\Content\Paks`<br>
