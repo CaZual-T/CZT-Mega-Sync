@@ -50,7 +50,7 @@
       - DOWNLOADING BEGINS A DIRECT FILE TRANSFER BETWEEN THE URL USED AND YOUR PC.<br>
       - ONLY DOWNLOAD/USE MEGA URLs FROM USERS THAT YOU TRUST!
 
-<img width="841" height="508" alt="image" src="https://github.com/user-attachments/assets/23120f34-b45c-4afc-8e15-30a6ac9b1826" />
+<img width="836" height="508" alt="image" src="https://github.com/user-attachments/assets/5ddd4582-54ad-490b-85af-e862b6fd830e" />
 
 # How to use MegaCZT [HOST]
 - Create a folder named mod.czt (you can use my tool CZT Mod Manager <https://github.com/CaZual-T/CZT-Mod-Manager>)
