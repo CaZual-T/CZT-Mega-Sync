@@ -40,8 +40,9 @@
     `Steam\steamapps\common\Ready Or Not\ReadyOrNot\Content\Paks`<br>
     `SteamLibrary\steamapps\common\Ready Or Not\ReadyOrNot\Content\Paks`
 - Save Config.
-- Before downloading, if you have an existing mod folder please rename it to mod.czt
-  - EXCEPTION(S): If you dont have a mods folder to begin with, skip this step.
+> [!IMPORTANT]
+      - Before downloading, if you have an existing mod folder please rename it to mod.czt</br>
+      - EXCEPTION(S): If you dont have a mods folder to begin with, skip this step.
 - <b>Click Download!</b>
 
 ### How to use MegaCZT anytime after initial setup:
