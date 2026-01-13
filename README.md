@@ -25,6 +25,9 @@
 - Open MegaCZT.
 - Click 'Setup CLI'. (wait for it to complete) (app will auto close and need relaunched to complete setup)
         - Note that during install a powershell window will popup to install choco, DO NOT close, it will close on its own once complete.</br>
+ > [!NOTE]
+      > [ALT OPTION] If you dont want to use the 'setup cli' button, then you can download the cli yourself from [(https://mega.io/cmd)](https://mega.io/cmd) </br>
+      > Once megaCMD is installed just click 'detect cli' within megaCZT
   <img width="352" height="105" alt="image" src="https://github.com/user-attachments/assets/494a7774-3bcb-4c8c-9341-c5a3d4718e54" />
 
 - Paste a shared MEGA folder link into the MEGA Folder URL entry. (get this from whoever is hosting the folder)
