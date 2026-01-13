@@ -38,14 +38,14 @@
   <img width="718" height="68" alt="image" src="https://github.com/user-attachments/assets/28cc97e1-fa8d-4014-98b5-781c1a226f6b" />
 
   - It should automatically detect something similar to:<br>
-    `Program Files (x86)\Steam\steamapps\common\Ready Or Not\ReadyOrNot\Content\Paks`<br>
-    `Program Files\Steam\steamapps\common\Ready Or Not\ReadyOrNot\Content\Paks`<br>
-    `Steam\steamapps\common\Ready Or Not\ReadyOrNot\Content\Paks`<br>
-    `SteamLibrary\steamapps\common\Ready Or Not\ReadyOrNot\Content\Paks`
+    `Program Files (x86)\Steam\steamapps\common\Ready Or Not\ReadyOrNot\Content\Paks`</br>
+    `Program Files\Steam\steamapps\common\Ready Or Not\ReadyOrNot\Content\Paks`</br>
+    `Steam\steamapps\common\Ready Or Not\ReadyOrNot\Content\Paks`</br>
+    `SteamLibrary\steamapps\common\Ready Or Not\ReadyOrNot\Content\Paks`</br>
 - Save Config.
 > [!IMPORTANT]
       - Before downloading, if you have an existing mod folder please rename it to mod.czt</br>
-      - EXCEPTION(S): If you dont have a mods folder to begin with, skip this step.
+      - EXCEPTION(S): If you dont have a mods folder to begin with, skip this step.</br>
 - <b>Click Download!</b>
 
 ### How to use MegaCZT anytime after initial setup:
@@ -59,9 +59,9 @@
 <img width="836" height="508" alt="image" src="https://github.com/user-attachments/assets/5ddd4582-54ad-490b-85af-e862b6fd830e" />
 
 # How to use MegaCZT [HOST]
-- Create or Rename your mods folder to mod.czt (Optional: you can use my tool ["CZT Mod Manager'](https://github.com/CaZual-T/CZT-Mod-Manager)</br>
-  > Default location \Program Files (x86)\Steam\steamapps\common\Ready Or Not\ReadyOrNot\Content\Paks</br>
-  > CZT MM users be sure to use the mod.czt folder within CZT Mod Manager/profile mods/Ready or Not/mod.czt ← sync that one.</br>
+- Create or Rename your mods folder to mod.czt (Optional: you can use my tool ["CZT Mod Manager'](https://github.com/CaZual-T/CZT-Mod-Manager))</br>
+  - Default location \Program Files (x86)\Steam\steamapps\common\Ready Or Not\ReadyOrNot\Content\Paks</br>
+  - CZT MM users be sure to use the mod.czt folder within CZT Mod Manager/profile mods/Ready or Not/mod.czt ← sync that one.</br>
 - Upload the folder to mega or use mega sync (best option) (learn how to setup mega sync below)</br>
 - Share the folder.</br>
 - Share the link generated with other users.</br>
