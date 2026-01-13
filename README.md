@@ -16,8 +16,8 @@
 
 # How to Install/First Time Use Guide:
 > [!IMPORTANT]
-      - (Host) Scroll to bottom for setup and how to generate a shared mega folder url+key.<br>
-      - (Client) Valid shared mega folder url. (obtain from whoever is hosting the folder)
+      - (Host) Click ["HERE"](https://github.com/CaZual-T/CZT-Mega-Sync/edit/main/README.md#how-to-use-megaczt-host) to learn how to generate a shared mega folder url+key.<br>
+      - (Client) You will need a shared mega folder url. (obtain from whoever is hosting the folder)
 
 # How to use MegaCZT [CLIENT] 
 ### First time use/Install:
