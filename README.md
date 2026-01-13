@@ -24,7 +24,7 @@
 - Download & Run MegaCZT_Installer.
 - Open MegaCZT.
 - Click 'Setup CLI'. (wait for it to complete) (app will auto close and need relaunched to complete setup)
-        - Note that during install a powershell window will popup to install choco, DO NOT close, it will close on its own once complete.</br>
+  - Note that during install a powershell window will popup to install choco, DO NOT close, it will close on its own once complete.</br>
  > [!NOTE]
       > [ALT OPTION] You can download the cli yourself from [(https://mega.io/cmd)](https://mega.io/cmd) </br>
       > Once megaCMD is installed just click 'detect cli' within megaCZT
@@ -59,26 +59,26 @@
 <img width="836" height="508" alt="image" src="https://github.com/user-attachments/assets/5ddd4582-54ad-490b-85af-e862b6fd830e" />
 
 # How to use MegaCZT [HOST]
-- Create a folder named mod.czt (you can use my tool CZT Mod Manager <https://github.com/CaZual-T/CZT-Mod-Manager>)
-  > If you use my manager be sure to use the mod.czt folder within CZT Mod Manager/profile mods/Ready or Not/mod.czt ← sync that one.
-- Upload the folder to mega or use mega sync (see more on mega sync below) 
-- Share the folder.
-- Share the link generated with other users.
+- Create or Rename your mods folder to mod.czt (Optional: you can use my tool ["CZT Mod Manager'](https://github.com/CaZual-T/CZT-Mod-Manager)</br>
+  > Default location \Program Files (x86)\Steam\steamapps\common\Ready Or Not\ReadyOrNot\Content\Paks</br>
+  > CZT MM users be sure to use the mod.czt folder within CZT Mod Manager/profile mods/Ready or Not/mod.czt ← sync that one.</br>
+- Upload the folder to mega or use mega sync (best option) (learn how to setup mega sync below)</br>
+- Share the folder.</br>
+- Share the link generated with other users.</br>
 
-MegaSync Setup:
-- Create a folder named mod.czt (for Ready or Not put this folder next to mod.io @ \Program Files (x86)\Steam\steamapps\common\Ready Or Not\ReadyOrNot\Content\Paks)
-<img width="673" height="200" alt="{6048EBEA-DD03-4A76-A45B-589293376AC6}" src="https://github.com/user-attachments/assets/43b76e9b-78b2-4030-b1d4-997dc6167d1c" />
+### MegaSync Setup:</br>
+- Download megasync (desktop app) (https://mega.io/syncing)</br>
+- Once installed click the Mega icon in the system tray/bottom right of your desktop task bar (red circl with M)</br>
+- Click + Add Sync at the top</br>
+<img width="342" height="543" alt="{3E5CA375-BB50-47E8-89D7-78EE155B8089}" src="https://github.com/user-attachments/assets/ad03467c-ede6-4b48-9310-b9481bfdfdd2" /> </br>
 
-- Download megasync (desktop app) (https://mega.io/syncing)
-- Once installed click the Mega icon in the system tray/bottom right of your desktop task bar (red circl with M)
-- Click + Add Sync at the top
-<img width="342" height="543" alt="{3E5CA375-BB50-47E8-89D7-78EE155B8089}" src="https://github.com/user-attachments/assets/ad03467c-ede6-4b48-9310-b9481bfdfdd2" />
-
-- This will allow you to select your mod.czt folder and automatically sync to your mega drive.
-- Once setup, mega will automatically sync any file in that folder to your mega folder. You can then get the link for that folder (go to your mega storage and right click to share and get link) and easily update without having to transfer all of your mods at one time.)
+- This will allow you to select your mod.czt folder and automatically sync to your mega drive. </br>
+- Once setup, mega will automatically sync any file in that folder to your mega folder. </br>
+- You can then get the link for that folder (go to your mega storage and right click to share and get link) </br>
+- Now you can easily update without having to transfer all of your mods at one time.) </br>
 <img width="94" height="33" alt="{4ACB2843-9920-461D-AE18-31BF3F3605A3}" src="https://github.com/user-attachments/assets/593c8cb2-c7a8-4900-a9bd-1f4f54b285dc" />
 
-- Now anytime you update your mods folder, your friends can run MegaCZT to download your shared folder and automatically install a copy to their pc with the click of a button.
+- Also, anytime you update your mods folder, your friends can run MegaCZT to download your shared folder and automatically install with the click of a button!
 >[!NOTE]
       - HOSTS:<br>
       - MegaCZT is hard coded to only download and transfer mega folders named mod.czt currently.<br>
