@@ -13,6 +13,7 @@
 - Simple UI with Progress bars, Log window, and easy to use buttons with tooltips.
 - Update MegaCZT from within the app (no need to download from github)
 - Persistent config.
+- Press CTRL+SHIFT+L to open language menu.
 
 # How to Install/First Time Use Guide:
 > [!IMPORTANT]
