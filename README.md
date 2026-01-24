@@ -58,8 +58,8 @@
 
 # How to use MegaCZT [HOST]
 - Locate your mods folder (Optional: you can use my tool ["CZT Mod Manager'](https://github.com/CaZual-T/CZT-Mod-Manager))</br>
-  - Default location \Program Files (x86)\Steam\steamapps\common\Ready Or Not\ReadyOrNot\Content\Paks\Mods ← sync.</br>
-  - CZT MM users be sure to use the 'Ready or Not' folder within CZT Mod Manager/profile mods/Ready or Not ← sync.</br>
+  - Default location: /Program Files (x86)/Steam/steamapps/common/Ready Or Not\ReadyOrNot/Content/Paks/'Mods' ← SYNC</br>
+  - CZT Mod Manager Users: Be sure to use the 'Ready or Not' folder within CZT Mod Manager/profile mods/'Ready or Not' ← SYNC</br>
 - Upload the folder to mega or use mega sync (best option) (learn how to setup mega sync below)</br>
 - Share the folder.</br>
 - Share the link generated with other users.</br>
