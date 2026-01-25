@@ -45,7 +45,7 @@
 
 ### How to use MegaCZT anytime after initial setup:
 - Run MegaCZT. 
-- Paste a shared MEGA folder link into the MEGA Folder URL entry.      *- OPTIONAL: only needed if the url changed.*
+- Paste a shared MEGA folder link into the MEGA Folder URL entry.      *- Only needs updated if the url changed.*
 - Download.
 >[!CAUTION]
       - DOWNLOADING BEGINS A DIRECT FILE TRANSFER BETWEEN THE URL USED AND YOUR PC.<br>
