@@ -35,7 +35,7 @@
   <img width="492" height="68" alt="image" src="https://github.com/user-attachments/assets/6a0c9365-d957-48a5-aad7-cb3dd6f3c9b0" />
 
 - Click "Auto Path" (For users syncing Ready or Not folders) or Manual Path for other games/locations.
-  > Use manual if you use CZT Mod Manager : YourDrive:\CZT Mod Manager\profile_mods\Ready or Not
+  > Use custom path if you use CZT Mod Manager : YourDrive:\CZT Mod Manager\profile_mods < select that folder
   <img width="718" height="68" alt="image" src="https://github.com/user-attachments/assets/28cc97e1-fa8d-4014-98b5-781c1a226f6b" />
 
   - It should automatically detect something similar to:<br>
