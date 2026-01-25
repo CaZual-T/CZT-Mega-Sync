@@ -34,16 +34,12 @@
 - Paste a shared MEGA folder link into the MEGA Folder URL entry. (get this from whoever is hosting the folder)
   <img width="492" height="68" alt="image" src="https://github.com/user-attachments/assets/6a0c9365-d957-48a5-aad7-cb3dd6f3c9b0" />
 
-- Click "Auto Path" (For users syncing Ready or Not folders) or Manual Path for other games/locations.
+- Click "Auto Path" (Auto sets path to RON steam install) or
+- Use "Custom Path" for CZT Mod Manger and other 3rd party locations.
   > CZT Mod Manager Users: Press F2 to enable plugin mode. </br>
   > Then set custom path to {Drive}:\CZT Mod Manager\profile_mods < select that folder
   <img width="718" height="68" alt="image" src="https://github.com/user-attachments/assets/28cc97e1-fa8d-4014-98b5-781c1a226f6b" />
 
-  - It should automatically detect something similar to:<br>
-    `Program Files (x86)\Steam\steamapps\common\Ready Or Not\ReadyOrNot\Content\Paks`</br>
-    `Program Files\Steam\steamapps\common\Ready Or Not\ReadyOrNot\Content\Paks`</br>
-    `Steam\steamapps\common\Ready Or Not\ReadyOrNot\Content\Paks`</br>
-    `SteamLibrary\steamapps\common\Ready Or Not\ReadyOrNot\Content\Paks`</br>
 - Save Config.
 - <b>Click Download!</b>
 
