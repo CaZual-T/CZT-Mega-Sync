@@ -23,21 +23,24 @@
 # How to use MegaCZT [CLIENT] 
 ### First time use/Install:
 - Download & Run MegaCZT_Installer.
+     - (install to "CZT Mod Manager\plugins\exe_standalone" if you plan on using this as a plugin for CZT MM)
 - Open MegaCZT.
 - Click 'Setup CLI'. (wait for it to complete) (app will auto close and need relaunched to complete setup)
-  - Note that during install a powershell window will popup to install choco, DO NOT close, it will close on its own once complete.</br>
- > [!NOTE]
-      > [ALT OPTION] You can download the cli yourself from [(https://mega.io/cmd)](https://mega.io/cmd) </br>
-      > Once megaCMD is installed just click 'detect cli' within megaCZT
   <img width="352" height="105" alt="image" src="https://github.com/user-attachments/assets/494a7774-3bcb-4c8c-9341-c5a3d4718e54" />
+- Note that during install a powershell window will popup to install choco, DO NOT close, it will close on its own once complete.</br>
+ > [!TIP]
+      > - [ALT OPTION] You can download the cli yourself from [(https://mega.io/cmd)](https://mega.io/cmd) </br>
+      > - Once megaCMD is installed just click 'detect cli' within megaCZT
+  
 
 - Paste a shared MEGA folder link into the MEGA Folder URL entry. (get this from whoever is hosting the folder)
   <img width="492" height="68" alt="image" src="https://github.com/user-attachments/assets/6a0c9365-d957-48a5-aad7-cb3dd6f3c9b0" />
 
 - Click "Auto Path" (Auto sets path to RON steam install) or
 - Use "Custom Path" for CZT Mod Manger and other 3rd party locations.
-  > CZT Mod Manager Users: Press F2 to enable plugin mode. (or launch with CZT Mod Manager plugin menu (F3) </br>
-  > Then set custom path to {Drive}:\CZT Mod Manager\profile_mods < select that folder
+  - CZT Mod Manager Users: Press F2 to enable plugin mode.
+  - Or install as plugin and launch with CZT Mod Manager plugin menu (F3)
+- Then set custom path to {Drive}:\CZT Mod Manager\profile_mods < select that folder
   <img width="718" height="68" alt="image" src="https://github.com/user-attachments/assets/28cc97e1-fa8d-4014-98b5-781c1a226f6b" />
 
 - Save Config.
