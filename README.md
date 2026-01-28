@@ -36,7 +36,7 @@
 
 - Click "Auto Path" (Auto sets path to RON steam install) or
 - Use "Custom Path" for CZT Mod Manger and other 3rd party locations.
-  > CZT Mod Manager Users: Press F2 to enable plugin mode. </br>
+  > CZT Mod Manager Users: Press F2 to enable plugin mode. (or launch with CZT Mod Manager plugin menu (F3) </br>
   > Then set custom path to {Drive}:\CZT Mod Manager\profile_mods < select that folder
   <img width="718" height="68" alt="image" src="https://github.com/user-attachments/assets/28cc97e1-fa8d-4014-98b5-781c1a226f6b" />
 
